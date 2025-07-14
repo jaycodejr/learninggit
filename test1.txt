@@ -1,4 +1,4 @@
 This is my 2nd test file 
 I added this line as change
-One more change
+One more change from newfeature
 Changed in testing branch
