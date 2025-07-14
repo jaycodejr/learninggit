@@ -2,3 +2,4 @@ This is my 2nd test file
 I added this line as change
 One more change from newfeature part3
 Changed in testing branch
+I like changes
